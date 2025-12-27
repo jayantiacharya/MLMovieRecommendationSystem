@@ -16,6 +16,11 @@ Display movies with basic info, IMDB links, and overview snippets
 
 The recommendation engine combines genre, year, and title features using TF-IDF and MultiLabelBinarizer and leverages K-Nearest Neighbors (KNN) to suggest similar movies.
 
+## Demo Video 📺
+
+Watch the demo of the project here:  
+[![Movie Recommendation Engine Demo](https://youtu.be/f3U--m8XQSA?si=-tmPe7QMJaxH_ht0)
+
 🛠️ Technologies Used
 
 Python 3
